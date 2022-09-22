@@ -6,6 +6,7 @@ file: /courses/cms-603-american-soap-operas-spring-2008/e669193eed7a501dc707e764
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

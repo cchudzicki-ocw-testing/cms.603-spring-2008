@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: A hand turns on a small vintage television set.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: cms-608s08-th.jpg

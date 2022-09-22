@@ -6,6 +6,7 @@ file: /courses/cms-603-american-soap-operas-spring-2008/f654c9ce2472529205b62928
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Viewings
 parent_type: CourseSection
